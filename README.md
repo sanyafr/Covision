@@ -20,7 +20,7 @@
 
 ## Installation
 1. Instructions to visit web application
-   * Visit link : https://stockguruweb.pythonanywhere.com/
+   * Visit link : https://covisionweb.pythonanywhere.com/
 
 2. Instructions to RUN the project locally
    * Download the project folder
@@ -54,7 +54,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 <br>
-
+<br>
+<br>
 
 ## Screenshots
 ### Covid Trend Predictor
